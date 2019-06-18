@@ -1,0 +1,3 @@
+/afs/cern.ch/user/c/cracz/work/SD/input/dsb/data.root
+/afs/cern.ch/user/c/cracz/work/SD/input/dsb/ttbar.root
+/afs/cern.ch/user/c/cracz/work/SD/input/dsb/background.root
