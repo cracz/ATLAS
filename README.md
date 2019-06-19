@@ -1,5 +1,5 @@
 # ATLAS
-ROOT and Bash code I wrote for my undergraduate research
+ROOT code I wrote for my undergraduate research (This was a senior project and not an official ATLAS analysis that was published or used later on). This is mostly code that will create, or assist in creating, nice looking histograms.
 
 dmc   = Data/Monte Carlo
 
